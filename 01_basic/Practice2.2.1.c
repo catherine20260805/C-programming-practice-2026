@@ -1,7 +1,7 @@
 /*Practice2.2.1,Hands-on Practice*/
 #include <stdio.h>
 #include <stdlib.h>
-int main(void)
+c
 {                     
 	int num1=5;
 	int num2=12;
