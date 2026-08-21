@@ -3,10 +3,17 @@
 #include <stdlib.h>
 int main(void)
 {
-	char ch=312;
+	char ch=312;          /*overflow*/
 
 	printf("%c\n",ch);      
 	
 	system("pause");
 	return 0;
 }
+
+/* Outcome
+
+8
+Press any key to continue . . .
+
+*/
